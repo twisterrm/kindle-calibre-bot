@@ -14,7 +14,7 @@ If you want to receive the eBooks in your Kindle you need to follow these steps:
 
     To find your @kindle e-mail address, visit the <a href='https://www.amazon.com/myk#manageDevices'>Manage your Devices</a> page.
 
-<b>2.-</b> Add kindlesendbot@gmail.com in your <a href='https://www.amazon.com/gp/help/customer/display.html?nodeId=GX9XLEVV8G4DB28H'>Approved Personal Document E-mail List</a>.
+<b>2.-</b> Add zand.kindle@gmail.com in your <a href='https://www.amazon.com/gp/help/customer/display.html?nodeId=GX9XLEVV8G4DB28H'>Approved Personal Document E-mail List</a>.
 
 If you need more help, you can use this <a href='https://mytbr.co/how-to-email-books-to-kindle/'>step-by-step guide</a>.
 

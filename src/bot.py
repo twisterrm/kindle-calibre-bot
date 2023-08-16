@@ -53,7 +53,7 @@ MAX_SIZE_MB = 20
 EBOOK_FOLDER = "ebook/"
 
 # Kindle file extension
-KINDLE_EXTENSION = ".mobi"
+KINDLE_EXTENSION = ".epub"
 
 # Daily conversion limit per user
 DAILY_CONVERSION_LIMIT = 10
